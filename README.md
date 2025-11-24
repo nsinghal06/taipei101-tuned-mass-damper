@@ -13,7 +13,7 @@ This project analyzes how the 660-ton tuned mass damper (TMD) installed in Taipe
 
 ## Repository Details
 The repository includes: 
-- A technical report ([report.pdf](./report.pdf)) with mathematical derivations, analysis, and engineering implications.
+- A technical report with mathematical derivations, analysis, and engineering implications.
 - Python code () implementing the 2-DOF coupled oscillator dynamic model.
 - Simulation graphs () showing the comparison of displacement with and without the TMD.
 
@@ -22,5 +22,4 @@ The repository includes:
 - Differential equations and damping concepts  
 - Structural dynamics and tuned mass dampers
 
-## Authors
 
